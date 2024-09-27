@@ -8,4 +8,7 @@
 
 ###
 
+- [Duplicate Zeros](../Solutions/p1089.cpp)
+- [Merge Sorted Array](../Solutions/p88.cpp)
+
 ###
