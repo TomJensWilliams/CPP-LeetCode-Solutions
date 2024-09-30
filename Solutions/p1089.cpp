@@ -35,7 +35,7 @@ public:
     using external memory and then copying the
     contents over, treating the input vector as
     a stack, or some other unnecessary nonsense.
-    There might be some imporvement on this,
+    There might be some improvement on this,
     especially aesthetically, but it seems like
     the straightforward best answer, and most
     aren't getting it, which is odd as it is very

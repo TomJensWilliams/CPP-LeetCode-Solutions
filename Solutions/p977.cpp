@@ -15,3 +15,9 @@ public:
         return output;
     }
 };
+
+// This does its job, but maybe I could try to see whether it would
+// perform better if I assigned the results of those multiplications
+// to variables and then used those variables, so as to avoid
+// unnecessary re-multiplication. I could look for other improvements
+// and tweaks to increase performance as well.
